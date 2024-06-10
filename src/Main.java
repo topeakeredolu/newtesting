@@ -7,5 +7,6 @@ public class Main {
         }else
         System.out.println("Hello world!");
         System.out.println("new one");
+        System.out.println("yes");
     }
 }
