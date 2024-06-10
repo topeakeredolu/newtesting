@@ -4,7 +4,8 @@ public class Main {
         int num=8;
         if (num>10){
             System.out.println("num is greater than 10");
-        }else 
+        }else
         System.out.println("Hello world!");
+        System.out.println("new one");
     }
 }
